@@ -1116,7 +1116,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("keyboard.jpg") top center no-repeat;
+  background: url("footer_img.jpg") top center no-repeat;
   background-size: cover;
   color: #fff;
   font-size: 14px;
